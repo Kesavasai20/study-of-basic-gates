@@ -68,17 +68,20 @@ Y= A⊕B
 
 ## Developed by: K KESAVA SAI
 ## RegisterNumber: 212223230105
-![image](https://github.com/Kesavasai20/study-of-basic-gates/assets/138849303/3cab04f9-076d-4248-841f-518813d2c90e)
+
+![image](https://github.com/Kesavasai20/study-of-basic-gates/assets/138849303/110f2d05-67ad-4a13-9972-ef74222f0845)
 
  
 **Logic symbol & Truthtable**
-![image](https://github.com/Kesavasai20/study-of-basic-gates/assets/138849303/b4c8d55b-1c86-4255-853a-55ed8bdb0728)
+![image](https://github.com/Kesavasai20/study-of-basic-gates/assets/138849303/54c5cb3d-b9d3-4aa6-9773-442857c7040a)
 
 **RTL realization Output:** 
-![image](https://github.com/Kesavasai20/study-of-basic-gates/assets/138849303/f2fa819f-b353-43a9-a590-9cf4d35198f2)
+![image](https://github.com/Kesavasai20/study-of-basic-gates/assets/138849303/cb8465e7-7c8e-4c66-9f6b-6c04ffe5772a)
+
 
 **RTL**
-![image](https://github.com/Kesavasai20/study-of-basic-gates/assets/138849303/9cf3cda0-cb65-4760-98af-d5e63d35d5f7)
+![image](https://github.com/Kesavasai20/study-of-basic-gates/assets/138849303/5f8cfb06-58be-4599-8fd5-b897c8814658)
+
 
 **Result:**
 
